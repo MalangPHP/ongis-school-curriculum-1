@@ -25,7 +25,7 @@ Pertemuan 3 - Arrays
 * Array Function
 * SPL Array Object
 
-Pertemnuan 4 - Data Format & Tyoes
+Pertemnuan 4 - Data Format & Types
 ===
 
 * XML Basic
